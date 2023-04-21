@@ -1,6 +1,6 @@
 ### Hi, I'm [Wang Pengfei 王鹏飞](https://github.com/laowang1992)
 
-[GitHub](https://github.com/laowang1992) | [BnGDXY](http://yanglab.hzau.edu.cn/BnGDXY/)
+[GitHub](https://github.com/laowang1992) | [blog](https://laowang2023.cn) | [resume](https://laowang2023.cn/resume/) | [BnGDXY](http://yanglab.hzau.edu.cn/BnGDXY/)
 
 <img src="https://github-readme-stats.vercel.app/api?username=laowang1992&include_all_commits=true&theme=swift&show_icons=true&bg_color=fff)" align="left" hight=230 />
 
