@@ -3,7 +3,7 @@
 [GitHub](https://github.com/laowang1992) | [blog](https://laowang2023.cn) | [resume](https://laowang2023.cn/resume/) | [BnGDXY](http://yanglab.hzau.edu.cn/BnGDXY/)
 
 ![王鹏飞's GitHub stats](https://github-readme-stats.vercel.app/api?username=laowang1992&theme=cobalt)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laowang1992&layout=compact&langs_count=8&theme=dracula&hide=html,javascript,css,scss)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=laowang1992&layout=compact&langs_count=8&theme=dracula&exclude_repo=laowang1992.github.io,project,resume,slide)  
 
 
 
